@@ -8,7 +8,7 @@ jobs:
     name: Build and Push to GCP
     runs-on: ubuntu-latest
     env:
-      IMAGE_NAME: Small_Project_Automation_With_GCP_2
+      IMAGE_NAME: small_project_automation_with_gcp_deployment
       PROJECT_ID: sixth-arbor-378206
     steps:
     - name: Checkout
