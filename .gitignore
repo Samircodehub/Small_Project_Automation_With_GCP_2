@@ -109,8 +109,8 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-.deployenv
-deployenv
+.gcpenv
+gcpenv
 
 # Spyder project settings
 .spyderproject
